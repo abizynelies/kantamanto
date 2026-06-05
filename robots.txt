@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap:https://abizynelies.github.io/kantamanto/sitemap.xml
+Sitemap: https://abizynelies.github.io/kantamanto/sitemap.xml

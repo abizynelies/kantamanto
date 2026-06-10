@@ -1,4 +1,4 @@
-User-agent: *
-Allow: /
+User=agent: *
+Allow:/
 
 Sitemap: https://abizynelies.github.io/kantamanto/sitemap.xml
